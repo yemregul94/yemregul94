@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre</h1>
 <h3 align="center">I'm a computer engineer from Turkey. I have experience with C#, C++ and Kotlin and looking for more.</h3>
 
+- 🌱 I’m currently learning **Android with Kotlin**
 - 📫 How to reach me **yemregul94@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
