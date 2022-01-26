@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre</h1>
 <h3 align="center">I'm a computer engineer from Turkey. I have experience with C#, C++ and Kotlin and looking for more.</h3>
 
+- 📫 How to reach me **yemregul94@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yemregul94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yemregul94" height="30" width="40" /></a>
